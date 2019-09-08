@@ -1,2 +1,2 @@
-# ToDo-App
-Todo app with node and typescript
+# NodeJs-App-With-Typescript-
+A basic node js application with typescript
